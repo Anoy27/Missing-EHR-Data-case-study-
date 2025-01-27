@@ -1,4 +1,4 @@
-# Missing Encounters Analysis
+# Missing Encounter In EHR Data Analysis
 
 
 ## Objective of this Case Study
@@ -52,7 +52,6 @@ Moreover, the highest number of missing encounters happened in September and mis
 
 ### 4. EHR Issues
 Research into the public domain suggests that EHR systems can cause some issues while importing data [1] which causes data loss. It can be responsible for a small portion of the missing data. 
-Detailed Code and Documentation: 
 
 #### Citations 
 [1]- Data Quality and Integration Issues in Electronic Health Records,  PY  - 2009/12/10, SP  - 55, EP  - 95, SN  - 9781420090383, T1  -,  DO  - 10.1201/9781420090413-c4, JO  - Information Discovery on Electronic Health Records.
